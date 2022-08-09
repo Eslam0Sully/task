@@ -1,0 +1,11 @@
+1-instal cypress dependency
+npm i cypress@9.5.3
+
+2-open integration folder test cases inside it
+
+3-run test with
+npx cypress run
+
+4-open cypress dashboard with 
+npx cypress open
+
